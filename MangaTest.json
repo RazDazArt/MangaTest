@@ -3,7 +3,7 @@
   "description": "Mid",
   "artist": "Umer",
   "author": "Umer",
-  "cover": "https://media.discordapp.net/attachments/1224760320506204210/1383937008501653554/Volumecover1.png?ex=685732c7&is=6855e147&hm=3a3b9a2ded694bfd50e93f20710d2d6105c4b4c2ecfd0a9153a2310a897e3c81&=&format=webp&quality=lossless&width=607&height=960",
+  "cover": "https://cdn.jsdelivr.net/gh/RazDazArt/MangaTest@v1/Pages/Comic1.png",
   "chapters": {
     "1": {
       "title": "1",
@@ -11,20 +11,12 @@
       "last_updated": "1750475526",
       "groups": {
         "": [
-          "https://media.discordapp.net/attachments/1041513944109568121/1385819869781561386/image.png?ex=685774d4&is=68562354&hm=c3be1dd20358ec51667e0cb0f9ebeb74cced9d180cedd93d93f5b350e361e433&=&format=webp&quality=lossless",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385819870041477171/image.png?ex=685774d4&is=68562354&hm=df061efeb9cd971294d37cdf2b8df8c1eedefb14603db6519e7e069d92b7cfdd&=&format=webp&quality=lossless",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385819870377148426/image.png?ex=685774d4&is=68562354&hm=2fdb552cd1574e9a522d90a7589da88d1ddcc4212bed4b76fc95adf70bbb40fe&=&format=webp&quality=lossless",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385819870645452892/image.png?ex=685774d4&is=68562354&hm=e0c44502e8555d5ae2e7c0e7032edcff63e11fe524b758859b12a274c49bfb10&=&format=webp&quality=lossless",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385819870897115236/image.png?ex=685774d4&is=68562354&hm=958e9b090b364ccda4c1fe075db1d215ee681da1918a19fcf03a8604de494615&=&format=webp&quality=lossless",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385819908301914152/image.png?ex=685774dd&is=6856235d&hm=e952ca77d99e20a61504ceed7049d6f44fbee6fbf710aace94f52ea2cb2355b9&=&format=webp&quality=lossless",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385857207945396284/Screenshot_2025-06-20_220736.png?ex=6857979a&is=6856461a&hm=ccdfd8392ffdeb3f15396930cf8dd4fd45cac072b95b42d679a69b21e11c9373&=&format=webp&quality=lossless&width=625&height=856",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385857208440328272/Screenshot_2025-06-20_220801.png?ex=6857979a&is=6856461a&hm=13caaaa431649e6aa47e542a5e63d1cc8e88f3ede73ca09afa020dbaf6a97c3e&=&format=webp&quality=lossless&width=629&height=856",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385857208880857250/Screenshot_2025-06-20_223949.png?ex=6857979a&is=6856461a&hm=35bbf78bde570c04507f47b1aa61d188a9c89e6501fad46c94b1f4d5a2621226&=&format=webp&quality=lossless",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385857209199755345/Screenshot_2025-06-20_224004.png?ex=6857979a&is=6856461a&hm=e298f3f40cd04e42fb0427ae7713e9d7f34c1c9f76899d3d9086857fff952dc9&=&format=webp&quality=lossless&width=613&height=856",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385873828583833600/image.png?ex=6857a715&is=68565595&hm=e66224f59432c34fdfa7d6cf2632cb2504da130cc8d22abe3e8778b91823595a&=&format=webp&quality=lossless&width=605&height=856",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385873829519425669/image.png?ex=6857a715&is=68565595&hm=dfdd6fc32d0453dadece0848c68b72958cdf50ccd0f3908af4b0c98ad170a886&=&format=webp&quality=lossless&width=621&height=856",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385873830035198003/image.png?ex=6857a715&is=68565595&hm=a0778a4caffaf1acf9fbff42d5a3494152230c013dc84e810852554c00d48b4c&=&format=webp&quality=lossless&width=609&height=856",
-          "https://media.discordapp.net/attachments/1041513944109568121/1385873830458953868/image.png?ex=6857a715&is=68565595&hm=86cf71eb1352ab428308046ab3721a0bbcb391114153cc94c629164d70c6d5d4&=&format=webp&quality=lossless&width=613&height=856"
+          "https://cdn.jsdelivr.net/gh/RazDazArt/MangaTest@v1/Pages/Comic1.png",
+          "https://cdn.jsdelivr.net/gh/RazDazArt/MangaTest@v1/Pages/Comic2.png",
+          "https://cdn.jsdelivr.net/gh/RazDazArt/MangaTest@v1/Pages/Comic3.png",
+          "https://cdn.jsdelivr.net/gh/RazDazArt/MangaTest@v1/Pages/Comic4.png",
+          "https://cdn.jsdelivr.net/gh/RazDazArt/MangaTest@v1/Pages/Comic5.png",
+          "https://cdn.jsdelivr.net/gh/RazDazArt/MangaTest@v1/Pages/Comic6.png"
         ]
       }
     }
