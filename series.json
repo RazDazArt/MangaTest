@@ -1,8 +1,8 @@
 {
   "title": "Test Manga",
   "description": "Mid",
-  "artist": "Umer",
-  "author": "Umer",
+  "artist": "Razz",
+  "author": "Razz",
   "cover": "https://cdn.jsdelivr.net/gh/RazDazArt/MangaTest@v1/Pages/Comic1.png",
   "chapters": {
     "1": {
